@@ -1,5 +1,4 @@
 # Performance-Prediction-and-Optimization-of-Supercapacitors-Through-Data-Driven-Analysis-
-# Machine Learning Based Optimization of Flexible Supercapacitors
 
 ## Overview
 
