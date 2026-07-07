@@ -4,7 +4,7 @@
 
 This project presents a machine learning framework for predicting the capacitance of flexible supercapacitors and recommending optimal material combinations for achieving desired electrochemical performance.
 
-The work was completed as a B.Tech Final Year Project in Electronics and Communication Engineering at IIITDM Kancheepuram.
+The work was completed as a B.Tech Final Year Project in Electronics and Communication Engineering at IIITDM Kancheepuram(2025).
 
 ## Objectives
 
